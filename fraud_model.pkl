@@ -1,0 +1,1 @@
+joblib.dump(rf, "fraud_model.pkl")
